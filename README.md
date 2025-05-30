@@ -62,4 +62,16 @@
 
 ## 许可
 
-版权所有 © 2023 
+版权所有 © 2023
+
+## 项目更新日志
+
+### 2025-01-27
+- **Added artwork attribution**: Added artwork attribution to pinkbackground.app in the footer section
+- **SEO optimization**: Added dofollow external link with anchor text "Pink Background"
+- **User experience**: External link opens in new window with target="_blank", doesn't interrupt user gaming experience
+- **Technical implementation**: 
+  - Link location: Footer copyright area
+  - Link attributes: rel="dofollow" target="_blank"
+  - Styling: Uses existing footer-link CSS class
+  - Language: English attribution text to match website language 
